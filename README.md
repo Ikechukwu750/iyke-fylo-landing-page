@@ -24,8 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://leireomadina.github.io/fylo-dark-theme-landing-page/)
+- Live Site URL: https://fylo-landing-page-iyke.netlify.app/
 
 ## My process
 
